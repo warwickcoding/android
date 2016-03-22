@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WarwickCodingApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_users">Users</string>
+    <string name="title_activity_add_record">Add Record</string>
+    <string name="title_activity_view_user">View User</string>
+
+    <string name="menu_deleteUser">Delete User</string>
+    <string name="menu_editUser">Edit User</string>
+
+    <string name="main_button_start">Start!</string>
+    <string name="main_textView_androidCourse">Android Course</string>
+    <string name="main_editText_password">Enter Name</string>
+
+    <string name="users_textView_age">Age:</string>
+
+    <string name="addUser_editText_age">Age</string>
+    <string name="addUser_editText_name">Name</string>
+    <string name="addUser_editText_email">example.email@example.com</string>
+    <string name="addUser_editText_location">Location</string>
+    <string name="addUser_textView_gender">Gender</string>
+    <string name="addUser_button_create">Create Record</string>
+    <string name="addUser_dialogButton_ok">OK</string>
+    <array name="addUser_genderList">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+    <string name="viewUser_textView_comments">Comments</string>
+    <string name="viewUser_dialogTitle_addComment">Add Comment</string>
+    <string name="viewUser_dialogButton_add">ADD</string>
+    <string name="viewUser_dialogButton_cancel">CANCEL</string>
+
+</resources>
